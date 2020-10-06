@@ -1,7 +1,5 @@
 # SERVERLESS
 
-Austin Serif
-
 A harmless exploration into the world of serverless functions and distributed computing. The overarching goal of this project is to practice configuring and deploying OpenFaas to kubernetes clusters hosted with DO. One tangible objective is to deploy a **CRUD API** out of *serverless functions*. 
 
 ## Resources:
