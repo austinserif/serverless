@@ -23,3 +23,14 @@ A harmless exploration into the world of serverless functions and distributed co
 
 - Kubernetes API: On macOS, install using homebrew from the command line: `brew install kubectl`.
 
+
+
+
+------
+
+
+## Next-steps:
+
+- remove one-click install versions of NGINX Ingress controller (currently DO is showing two??).
+- properly install NGINX ingress conroller using helm, and point A NAME resources towards appropriate cluster nodes.
+
